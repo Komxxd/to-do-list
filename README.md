@@ -1,2 +1,12 @@
-# to-do-list
-A minimalistic to-do list app. You can add, delete and mark your tasks as completed.
+# To-do-list
+A minimalistic and intuitive to-do list app for managing your tasks effectively.
+
+## Features
+- Add, delete, and mark tasks as completed
+- Persistent storage (tasks remain even after a page refresh)
+- Morden and clean UI
+
+  ## Screenshot
+  ![image](https://github.com/user-attachments/assets/4fdf6ccc-f03c-4e08-93b3-b19e9e33f126)
+
+
